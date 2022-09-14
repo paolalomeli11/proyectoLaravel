@@ -13,7 +13,7 @@
   --fg-pink: #D032D0;
   --fg-red: #D65025;
   --fg-orange: #F535aa;
-  --fg-yellow: #D7AE20;
+  --fg-yellow: #F535aa;
   --fg-green: #3DBB59;
   --fg-teal: #20c997;
   --fg-cyan: #5EDCD4;
@@ -38,7 +38,7 @@
   --fg-secondary: #186BE8;
   --fg-success: #3DBB59;
   --fg-info: #1C16AF;
-  --fg-warning: #F59300;
+  --fg-warning: #F535aa;
   --fg-danger: #D65025;
   --fg-light: #E5E5E5;
   --fg-dark: #313839;
@@ -20866,6 +20866,7 @@ code[class*=language-], pre[class*=language-] {
   -webkit-box-pack: center;
   -ms-flex-pack: center;
   justify-content: center;
+  color: #F535aa;
 }
 .scroll-indicator:hover {
   text-decoration: none;
