@@ -30,13 +30,13 @@
     <!-- ===============================================-->
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&amp;display=swap" rel="stylesheet">
-    <link href="{{ asset('js/vendors/prism/prism.css') }}" rel="stylesheet">
-    <link href="{{ asset('js/vendors/swiper/swiper-bundle.min.css') }}" rel="stylesheet">
-    <link href="{{ asset('css/theme.css') }}" rel="stylesheet" /> 
-    <link href="{{ asset('css/user.css') }}" rel="stylesheet" />
-    <link href="{{ asset('css/custom.css') }}" rel="stylesheet" />
+    <link href="{{ asset('vendors/prism/prism.css') }}" rel="stylesheet">
+    <link href="{{ asset('vendors/swiper/swiper-bundle.min.css') }}" rel="stylesheet">
+    <link href="{{ asset('assets/css/theme.css') }}" rel="stylesheet" /> 
+    <link href="{{ asset('assets/css/user.css') }}" rel="stylesheet" />
+    <link href="{{ asset('assets/css/custom.css') }}" rel="stylesheet" />
 
-    <link href="{{ asset('js/vendors/glightbox/glightbox.min.css') }}" rel="stylesheet">
+    <link href="{{ asset('vendors/glightbox/glightbox.min.css') }}" rel="stylesheet">
   </head>
 
 
